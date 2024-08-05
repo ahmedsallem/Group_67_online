@@ -1,0 +1,2 @@
+student name is احمد 
+student age is 30 
