@@ -1,0 +1,12 @@
+,DataType,Missing,N_unique,Count
+Survived,int64,0,2,909
+P_Class,int64,0,3,909
+Name,object,0,891,909
+Sex,object,0,2,909
+Age,float64,178,88,731
+SibSp,int64,0,7,909
+Parch,int64,0,7,909
+Ticket,object,0,681,909
+Fare,float64,0,248,909
+Cabin,object,701,147,208
+Embarked,object,2,3,907
